@@ -15,8 +15,7 @@ export const Container = styled.div`
 //   }
 // `;
 
-
-export const Snow = styled.div`
+export const SnowWrap = styled.div`
   position: absolute;
   top: -20px;
   display: flex;
