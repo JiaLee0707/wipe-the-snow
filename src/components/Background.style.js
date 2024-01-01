@@ -17,7 +17,8 @@ export const Container = styled.div`
 
 export const SnowWrap = styled.div`
   position: absolute;
-  top: -20px;
+  //top: -20px;
+  top: -28px;
   display: flex;
   align-items: center;
   justify-content: center;
