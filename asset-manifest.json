@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wipe-the-snow/static/css/main.e6c13ad2.css",
+    "main.js": "/wipe-the-snow/static/js/main.072aaa26.js",
+    "static/js/787.aad57d45.chunk.js": "/wipe-the-snow/static/js/787.aad57d45.chunk.js",
+    "static/media/snowflake-solid.svg": "/wipe-the-snow/static/media/snowflake-solid.ee40935ff336b767695d2e4c9fc139c2.svg",
+    "index.html": "/wipe-the-snow/index.html",
+    "main.e6c13ad2.css.map": "/wipe-the-snow/static/css/main.e6c13ad2.css.map",
+    "main.072aaa26.js.map": "/wipe-the-snow/static/js/main.072aaa26.js.map",
+    "787.aad57d45.chunk.js.map": "/wipe-the-snow/static/js/787.aad57d45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.072aaa26.js"
+  ]
+}
